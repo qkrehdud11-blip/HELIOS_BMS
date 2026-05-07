@@ -353,7 +353,7 @@ $$error\_y = (S1 + S3) - (S2 + S4) \quad \text{(상측 합 - 하측 합)}$$
 ### 6.2 Demonstration (시연 영상)
 
 
-<a href="https://www.youtube.com/playlist?list=PL6xfXHA4BYR9Hl2bLpyACR_jpAFE2U8kd" target="_blank">
+<a href="https://www.youtube.com/playlist?list=PLfvFIjdRKo629Y1z1ofcWMX5VUU1T6zAE" target="_blank">
   <img src="images/youtube.jpg" alt="Watch Demo Video" width="300" />
 </a>
 
